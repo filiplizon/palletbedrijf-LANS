@@ -5,21 +5,18 @@
 
 - [General info] (#generalinfo)
 - [Technologies] (#technologies)
-- [Live preview] (#livepreview)
-  
+- [Live preview] (#livepreview)  
 <a name="generalinfo"/>
 ## General Info 
 
 This is landing page made for a dutch pallet company where I was working.
-
 <a name="technologies"/>
 ## Technologies 
 
 This project is created with:
  * HTML
  * CSS
- * JavaScript (jQuery)
-  
+ * JavaScript (jQuery)  
 <a name="livepreview"/>
 ## Live Preview 
 
