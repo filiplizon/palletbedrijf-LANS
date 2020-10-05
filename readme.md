@@ -3,21 +3,24 @@
 
 ## Table of content
 
-* [General info] (#generalinfo)
-* [Technologies] (#technologies)
-* [Live preview] (#livepreview)
-
-## General Info <a name="generalinfo">
+- [General info] (#generalinfo)
+- [Technologies] (#technologies)
+- [Live preview] (#livepreview)
+  
+<a name="generalinfo"/>
+## General Info 
 
 This is landing page made for a dutch pallet company where I was working.
 
-## Technologies <a name="technologies"> 
+<a name="technologies"/>
+## Technologies 
 
 This project is created with:
  * HTML
  * CSS
  * JavaScript (jQuery)
-
-## Live Preview <a name="livepreview">
+  
+<a name="livepreview"/>
+## Live Preview 
 
 * https://filiplizon.github.io/palletbedrijf-LANS/
